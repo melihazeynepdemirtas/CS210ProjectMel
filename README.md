@@ -1,5 +1,4 @@
 # CS210ProjectMel
-Hypothesis: I prefer shorter videos (less than 15 minutes) over longer videos.
 
 Analyzing YouTube Consumption: This project covers the history of individual YouTube views to find patterns and preferences and investigate possible reasons for how these patterns affect daily routines.
 
