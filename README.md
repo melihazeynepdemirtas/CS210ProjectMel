@@ -1,4 +1,5 @@
 # CS210ProjectMel
+Research Questions: Do I have a set of favorite channels, or do I explore new creators frequently?, How does my engagement vary across different channels?
 
 Analyzing YouTube Consumption: This project covers the history of individual YouTube views to find patterns and preferences and investigate possible reasons for how these patterns affect daily routines.
 
