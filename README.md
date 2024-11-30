@@ -67,7 +67,7 @@ Possible Libraries that will be used:
 
 -matplotlib and/or seaborn for visualization
 
--scikit-learn for clustering and/or predictive modeling
+(-scikit-learn for clustering and/or predictive modeling)
 
 Documentation: README within the GitHub repository.
 
