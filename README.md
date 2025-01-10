@@ -1,10 +1,9 @@
 # CS210ProjectMel
-Research Questions: Do I have a set of favorite channels, or do I explore new creators frequently?, How does my engagement vary across different channels?
+Research Questions: Is there a significant relationship between the time of day and the type of content consumed on video platforms?
 
-Analyzing YouTube Consumption: This project covers the history of individual YouTube views to find patterns and preferences and investigate possible reasons for how these patterns affect daily routines.
+Analyzing YouTube Consumption: The project investigates the relationship between the time of day and the type of video content consumed on a platform. The goal is to determine whether viewing preferences for different content categories (e.g., Music, TV/Drama, Education) vary depending on the time of day (Morning, Afternoon, Evening, Late Night).
 
-Motivation: Gain some insight into the time spent on YouTube, the type of content viewed, and how that can relate to your productivity and mood.
-From the insights gained on views, adjust screen time or your interests. 
+Motivation: The project aims to explore whether the time-of-day affects the type of content watched, such as Music, TV/Drama, or Educational videos. Understanding this relationship can help improve personalized content recommendations on streaming platforms by suggesting videos that users are more likely to watch at specific times. 
 
 Data Source: Download YouTube History, Use Google Takeout to export YouTube watch history:
 
