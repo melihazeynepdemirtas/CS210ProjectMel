@@ -30,6 +30,12 @@ What's in the Data?
 
 4-Watch timestamps.
 
+Methadology:
+1. Data Collection: Video watch history dataset.
+2. Data Cleaning: Filtering relevant columns (time-of-day and content category).
+3. Analysis: Using contingency tables, bar charts, and heatmaps to explore correlations.
+4. Statistical Test: Chi-Square Test for Independence to determine significance.
+
 Analysis Steps:
 1. Data Preprocessing:
    
