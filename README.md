@@ -1,6 +1,13 @@
 # CS210ProjectMel
 Research Questions: Is there a significant relationship between the time of day and the type of content consumed on video platforms?
 
+Hypothesis: 
+Null Hypothesis (H₀):
+There is no relationship between the time of day and the type of content category watched. The two variables are independent.
+
+Alternative Hypothesis (H₁):
+There is a significant relationship between the time of day and the type of content category watched. The choice of content depends on the time of day.
+
 Analyzing YouTube Consumption: The project investigates the relationship between the time of day and the type of video content consumed on a platform. The goal is to determine whether viewing preferences for different content categories (e.g., Music, TV/Drama, Education) vary depending on the time of day (Morning, Afternoon, Evening, Late Night).
 
 Motivation: The project aims to explore whether the time-of-day affects the type of content watched, such as Music, TV/Drama, or Educational videos. Understanding this relationship can help improve personalized content recommendations on streaming platforms by suggesting videos that users are more likely to watch at specific times. 
